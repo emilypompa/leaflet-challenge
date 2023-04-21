@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
  config.js
 API_KEY
+.DS_Store
